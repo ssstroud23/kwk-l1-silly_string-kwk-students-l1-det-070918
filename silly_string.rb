@@ -1,7 +1,7 @@
-# upcase
-
-# upcase on a sentence
-
-# downcase on a word 
-
-# gspec for "Hello, my name is Karlie" swap A's for E's 
+puts "aloha"
+puts "aloha".upcase
+puts "IM NOT SHOUTING".downcase
+puts "supercalifragilisticexpialidocious".length 
+puts "wow"+"mom"
+puts "i really like programming".capitalize
+puts "Astounding aardvarks, arguably an ancient animal, always ate apples and acorns and artichokes all around Athens, amazing!".gsub("A","O").gsub("a","o")
